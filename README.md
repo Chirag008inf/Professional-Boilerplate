@@ -13,4 +13,4 @@
 
 Note - This is a very young repository and might have some bugs and errors. Feel free to contribute.  
 
-This is not protected by anything and feel free to use it. If you want, you can modify it and upload as a VS Code Extension. I don't take any responsibility of how you use it because of some reasons like, it can easily be recreated and I am not forcing anyone in any ways to fork this. 
+This is not protected by anything and feel free to use it. If you want, you can modify it and upload as a VS Code Extension.
