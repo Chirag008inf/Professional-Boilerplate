@@ -11,6 +11,4 @@
 
 𝐘𝐨𝐮 𝐦𝐢𝐠𝐡𝐭 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐜𝐭𝐞𝐝, 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐚𝐭𝐭𝐞𝐦𝐩𝐭𝐬 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐚 𝗣𝗿𝗼𝗽𝗲𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗹  𝗥𝗲𝗮𝗱𝗮𝗯𝗹𝗲 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝘃𝗲 𝗕𝗼𝗶𝗹𝗲𝗿𝗽𝗹𝗮𝘁𝗲. 
 
-Note - This is a very young repository and might have some bugs and errors. Feel free to contribute.  
-
-This is not protected by anything and feel free to use it. If you want, you can modify it and upload as a VS Code Extension.
+This is not protected by anything and feel free to use it. If you want, you can modify it and upload as a VS Code Extension. 
